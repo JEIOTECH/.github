@@ -1,4 +1,3 @@
-Markdown
 ## Welcome to JEIOTECH Official GitHub 👋
 
 제이오텍(JEIOTECH) 공식 개발자 허브에 오신 것을 환영합니다.  
