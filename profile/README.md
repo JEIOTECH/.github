@@ -8,7 +8,7 @@ We share official SDKs, Python APIs, and sample projects for laboratory equipmen
 
 > [!NOTE]
 > **📢 Notice (공지사항)**  
-> - **2026.11** | 실험실 장비 제어용 Python API 샘플 저장소가 곧 공개될 예정입니다.  
+> - **2026.12** | 실험실 장비 제어용 Python API 샘플 저장소가 곧 공개될 예정입니다.  
 >   *(Python API sample repositories for laboratory equipment control will be released soon.)*
 > - 기술 문의 및 연동 지원 / Technical Inquiries & Integration Support: [jeiotechdeveloper@gmail.com](mailto:jeiotechdeveloper@gmail.com)
 
@@ -16,4 +16,4 @@ We share official SDKs, Python APIs, and sample projects for laboratory equipmen
 
 ### 🔗 Quick Links
 - 🌐 **Official Website:** [www.jeiotech.com](https://www.jeiotech.com)
-- ☁️ **LC Connected Hub:** [hub.jeiotech.com](https://hub.jeiotech.com)
+- 🧪 **Lab Companion:** [www.labcompanion.com](https://www.labcompanion.com)
