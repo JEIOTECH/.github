@@ -1,10 +1,10 @@
 ## Welcome to JEIOTECH Official GitHub 👋
 
 제이오텍(JEIOTECH) 공식 개발자 허브에 오신 것을 환영합니다.  
-실험실 장비 제어, 랩 오토메이션 프로토콜 및 스마트 랩 연동용 공식 SDK·API 예제를 공유합니다.
+인큐베이터, 냉장·냉동고, 쉐이커 등 실험실 장비 제어와 랩 오토메이션, 스마트 랩 연동을 위한 공식 SDK·Python API 및 샘플 프로젝트를 공유합니다.
 
 Welcome to the official JEIOTECH Developer Hub.  
-We share official SDK and API examples for laboratory equipment control, lab automation protocols, and smart lab integration.
+We share official SDKs, Python APIs, and sample projects for laboratory equipment control—including incubators, refrigerators/freezers, and shakers—as well as lab automation and smart lab integration.
 
 > [!NOTE]
 > **📢 Notice (공지사항)**  
